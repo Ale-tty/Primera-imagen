@@ -1,0 +1,86 @@
+.col-1 {
+    background-color: rgb(46, 204, 113);
+    width: 20%;
+    border-style: solid;
+    border-color: white;
+    margin: 3px 1.5px 3px 3px;
+    height: 35px;
+    border-width: 3px;
+    line-height: 35px;
+    font-size: 27px;
+}
+
+.col-2 {
+    background-color: rgb(46, 204, 113);
+    width: 80%;
+    border-style: solid;
+    border-color: white;
+    margin: 3px 3px 3px 1.5px;
+    height: 35px;
+    border-width: 3px;
+    line-height: 35px;
+    text-align: center;
+    font-size: 27px;
+}
+
+.col-3 {
+    background-color: rgb(231, 76, 60);
+    width: 35%;
+    border-style: solid;
+    border-color: white;
+    margin: 3px 1.5px 3px 3px;
+    height: 250px;
+    border-width: 3px;
+    line-height: 250px;
+    font-size: 27px;
+}
+
+.col-4 {
+    background-color: rgb(231, 76, 60);
+    margin: 3px 3px 3px 1.5px;
+    width: 65%;
+    border-style: solid;
+    border-color: white;
+    height: 250px;
+    border-width: 3px;
+    line-height: 250px;
+    text-align: center;
+    font-size: 27px;
+}
+
+.col-5 {
+    color: white;
+    height: 30px;
+    line-height: 30px;
+    background-color: rgb(155, 89, 182);
+    margin: 0px;
+    width: 100%;
+    border-style: solid;
+    border-color: white;
+    border-width: 3px;
+    text-align: center;
+    font-size: 27px;
+}
+
+.contenedor {
+    background-color:rgb(26, 188, 156);
+    width: 100%;
+    padding: 15px 5px;
+    justify-content: flex-start;
+}
+
+.row-1 {
+    background-color: rgb(46, 204, 113);
+    display: flex;
+}
+
+.row-2 {
+    background-color: rgb(231, 76, 60);
+    display: flex;
+}
+
+.row-3 {
+    display: flex;
+}
+
+
